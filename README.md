@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zar Ni Tun(Lyutsifer Saffin)</h1>
 <h3 align="center">A passionate software Engineer from London(UK)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xarnihtumm&label=Profile%20views&color=0e75b6&style=flat" alt="xarnihtumm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zarnitun&label=Profile%20views&color=0e75b6&style=flat" alt="zarnitun" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, React JS and React Native**
 
